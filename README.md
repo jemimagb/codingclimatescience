@@ -1,4 +1,4 @@
-#Coding Climate Science
+<b>Coding Climate Science</b>
 
 Coding Climate Science is the creative portion of my interdisciplinary dissertation. 
 
